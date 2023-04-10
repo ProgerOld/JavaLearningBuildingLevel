@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java Learning - Building Level</string>
+    <string name="text_accelerometer">Данные акселерометра</string>
+    <string name="text_gyroscope">Данные гироскопа</string>
+    <string name="text_rotation">Данные угла наклона</string>
+    <string name="text_header">Приложение строительный уровень</string>
+</resources>
